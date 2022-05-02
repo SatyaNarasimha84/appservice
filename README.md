@@ -23,8 +23,8 @@ There are only two essential things to add to any basic Spring Boot project:
    	2. Server will responsd with question (addition of multiple numbers) to solve
    	3. Client will read the question and sends back with Answer (total sum of numbers)
   	4. Server will read the question and Answer from User input and checks with sum of numbers and answer matches
-      		if matches then sends response as "That's" Great" , response code - 200
-      		if doesn't match sends response as  "That’s wrong. Please try again" ,response code - 400
+      	   * if matches then sends response as "That's" Great" , response code - 200
+      	   * if doesn't match sends response as  "That’s wrong. Please try again" ,response code - 400
 
 # Implementation :
   The App Service Implemented using following technologies
@@ -59,8 +59,7 @@ http://localhost:8080/swagger-ui.html
 
 
 ## Reference Documentation
-For further reference, please consider the following sections:
-* [Spring] (https://start.spring.io/ )
+For further reference, please consider the following sections: 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/2.5.6/reference/html/)
 
