@@ -23,8 +23,8 @@ There are only two essential things to add to any basic Spring Boot project:
    	2. Server will responsd with question (addition of multiple numbers) to solve
    	3. Client will read the question and sends back with Answer (total sum of numbers)
   	4. Server will read the question and Answer from User input and checks with sum of numbers and answer matches
-      	   * if matches then sends response as "That's" Great" , response code - 200
-      	   * if doesn't match sends response as  "That’s wrong. Please try again" ,response code - 400
+      	* if matches then sends response as "That's" Great" , response code - 200
+      	* if doesn't match sends response as  "That’s wrong. Please try again" ,response code - 400
 
 # Implementation :
   The App Service Implemented using following technologies
