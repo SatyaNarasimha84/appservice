@@ -51,6 +51,10 @@ There are only two essential things to add to any basic Spring Boot project:
  Service : That’s wrong. Please try again
    
 ```
+## Server Port Details
+default port : 8080
+In case port number has to be changes  , Please include following in src\main\resources\application.properties file
+Example : server.port = 8888
     
 ## Swagger API 
 ```java
