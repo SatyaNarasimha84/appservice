@@ -71,7 +71,7 @@ authorization : Bearer tokenvalue
     
 ## Swagger API 
 ```java
-http://localhost:8080/swagger-ui.html
+http://localhost:8080/swagger-ui/
 ```
 
 
